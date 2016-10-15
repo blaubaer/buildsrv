@@ -172,7 +172,7 @@ var Registry = Plugins{
 		Type:        DirectivePlugin,
 		Name:        "filter",
 		Import:      "github.com/echocat/caddy-filter",
-		Description: "Filter responses",
+		Description: "Filter response body contents",
 		DocsURL:     "/docs/filter",
 	},
 
